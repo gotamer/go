@@ -1,3 +1,6 @@
+
+# https://stackoverflow.com/questions/600079/how-do-i-clone-a-subdirectory-only-of-a-git-repository/52269934#52269934
+
 remoteRepo=git@github.com:gotamer/go.git
 subDir=/src/net/mail
 
